@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=home
+comment1.params=worldLevel\ numberOfMonstersInWorld\ numberOfCoins\ canMoveWest\ canMoveEast
+comment1.target=home(int,\ int,\ int,\ java.lang.Boolean,\ java.lang.Boolean)
+comment10.params=
+comment10.target=java.lang.String\ getWorldDescription()
+comment2.params=choiceObject
+comment2.target=void\ removeItemFromStore(int)
+comment3.params=choiceObject
+comment3.target=Items\ itemBought(int)
+comment4.params=
+comment4.target=void\ addItem()
+comment5.params=x
+comment5.target=Items\ foodOrHpPotion(int)
+comment6.params=verb
+comment6.target=Controls\ createWorldControls(java.lang.String)
+comment7.params=verb\ store
+comment7.target=Controls\ createWorldControls(java.lang.String,\ java.util.ArrayList)
+comment8.params=
+comment8.target=java.util.ArrayList\ getWorldControls()
+comment9.params=
+comment9.target=java.util.ArrayList\ getStore()
+numComments=11

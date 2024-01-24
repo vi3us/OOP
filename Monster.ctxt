@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Monster
+comment1.params=hp\ maxHp\ speed\ money\ monsterType
+comment1.target=Monster(int,\ int,\ int,\ int,\ java.lang.String)
+comment10.params=wildMonster
+comment10.target=java.lang.Boolean\ escape(Monster)
+comment11.params=wildMonster
+comment11.target=java.lang.String\ yourMonsterEscape(Monster)
+comment2.params=
+comment2.target=java.lang.String\ getMonsterType()
+comment3.params=
+comment3.target=java.lang.String\ getCharacterDescription()
+comment4.params=
+comment4.target=java.lang.String\ getCharacterDescriptionToHeal()
+comment5.params=
+comment5.target=int\ getStrengthConstant()
+comment6.params=strengthConstant
+comment6.target=void\ setStrengthConstant(int)
+comment7.params=wildMonster\ player1
+comment7.target=java.lang.String\ fight(Monster,\ Player)
+comment8.params=
+comment8.target=void\ special()
+comment9.params=player1
+comment9.target=void\ special(Player)
+numComments=12

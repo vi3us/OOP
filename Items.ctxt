@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Items
+comment1.params=price\ space\ typeOfItem
+comment1.target=Items(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getPrice()
+comment3.params=
+comment3.target=int\ getSpace()
+comment4.params=
+comment4.target=java.lang.String\ getTypeOfItem()
+comment5.params=
+comment5.target=java.lang.String\ itemDescription()
+comment6.params=
+comment6.target=int\ getHpRegen()
+numComments=7

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=world
+comment1.params=worldLevel\ numberOfMonstersInWorld\ numberOfCoins\ canMoveWest\ canMoveEast
+comment1.target=world(int,\ int,\ int,\ java.lang.Boolean,\ java.lang.Boolean)
+comment10.params=
+comment10.target=java.lang.String\ getPossibleMovement()
+comment11.params=
+comment11.target=java.util.ArrayList\ getWorldControls()
+comment2.params=coins
+comment2.target=void\ setNumberOfCoins(int)
+comment3.params=level
+comment3.target=void\ setWorldLevel(int)
+comment4.params=
+comment4.target=int\ getWorldLevel()
+comment5.params=
+comment5.target=int\ getNumberOfMonstersInWorld()
+comment6.params=
+comment6.target=int\ getNumberOfCoins()
+comment7.params=
+comment7.target=java.lang.String\ getWorldDescription()
+comment8.params=
+comment8.target=java.lang.Boolean\ getCanMoveEast()
+comment9.params=
+comment9.target=java.lang.Boolean\ getCanMoveWest()
+numComments=12

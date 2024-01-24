@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MagicMushrooms
+comment1.params=price\ space\ hpRegen
+comment1.target=MagicMushrooms(int,\ int,\ int)
+numComments=2

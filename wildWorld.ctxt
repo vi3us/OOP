@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=wildWorld
+comment1.params=worldLevel\ numberOfMonstersInWorld\ numberOfCoins\ canMoveWest\ canMoveEast
+comment1.target=wildWorld(int,\ int,\ int,\ java.lang.Boolean,\ java.lang.Boolean)
+comment10.params=type
+comment10.target=int\ monsterSpeed(int)
+comment11.params=
+comment11.target=int\ monsterMoney()
+comment2.params=verb\ monsterArray
+comment2.target=Controls\ createWorldControls(java.lang.String,\ java.util.ArrayList)
+comment3.params=verb
+comment3.target=Controls\ createWorldControls(java.lang.String)
+comment4.params=
+comment4.target=java.util.ArrayList\ getWorldControls()
+comment5.params=
+comment5.target=java.util.ArrayList\ getMonsterArray()
+comment6.params=
+comment6.target=java.lang.String\ getWorldDescription()
+comment7.params=x
+comment7.target=Monster\ monsterType(int)
+comment8.params=i
+comment8.target=void\ removeDeadMonster(int)
+comment9.params=type
+comment9.target=int\ monsterHealth(int)
+numComments=12
